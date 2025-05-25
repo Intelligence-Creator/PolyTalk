@@ -1,0 +1,8 @@
+streamlit
+whisper
+translatepy
+gTTS
+pydub
+ffmpeg-python
+sounddevice
+scipy
